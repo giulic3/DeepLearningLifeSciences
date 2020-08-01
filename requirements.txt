@@ -1,0 +1,81 @@
+# packages in environment at /home/giulia/anaconda3/envs/DeepLearningLifeSciences:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_tflow_select             2.3.0                       mkl  
+absl-py                   0.9.0                    py37_0  
+astor                     0.8.0                    py37_0  
+bzip2                     1.0.8                h7b6447c_0  
+c-ares                    1.15.0            h7b6447c_1001  
+ca-certificates           2020.6.20            hecda079_0    conda-forge
+cairo                     1.14.12              h8948797_3  
+certifi                   2020.6.20        py37hc8dfbb8_0    conda-forge
+deepchem                  2.3.0                      py_2    conda-forge
+fontconfig                2.13.0               h9420a91_0  
+freetype                  2.10.2               he06d7ca_0    conda-forge
+gast                      0.3.3                      py_0  
+glib                      2.65.0               h3eb4bd4_0  
+google-pasta              0.2.0                      py_0  
+grpcio                    1.27.2           py37hf8bcb03_0  
+h5py                      2.10.0           py37hd6299e0_1  
+hdf5                      1.10.6               hb1b8bf9_0  
+icu                       58.2                 he6710b0_3  
+joblib                    0.16.0                     py_0    conda-forge
+jpeg                      9d                   h516909a_0    conda-forge
+keras-applications        1.0.8                      py_1  
+keras-preprocessing       1.1.0                      py_1  
+lcms2                     2.11                 hbd6801e_0    conda-forge
+ld_impl_linux-64          2.33.1               h53a641e_7  
+libblas                   3.8.0               17_openblas    conda-forge
+libboost                  1.67.0               h46d08c1_4  
+libcblas                  3.8.0               17_openblas    conda-forge
+libedit                   3.1.20191231         h14c3975_1  
+libffi                    3.3                  he6710b0_2  
+libgcc-ng                 9.1.0                hdf63c60_0  
+libgfortran-ng            7.5.0               hdf63c60_13    conda-forge
+liblapack                 3.8.0               17_openblas    conda-forge
+libopenblas               0.3.10          pthreads_hb3c22a3_4    conda-forge
+libpng                    1.6.37               hed695b0_1    conda-forge
+libprotobuf               3.12.3               hd408876_0  
+libstdcxx-ng              9.1.0                hdf63c60_0  
+libtiff                   4.1.0                hc7e4089_6    conda-forge
+libuuid                   1.0.3                h1bed415_2  
+libwebp-base              1.1.0                h516909a_3    conda-forge
+libxcb                    1.14                 h7b6447c_0  
+libxml2                   2.9.10               he19cac6_1  
+lz4-c                     1.9.2                he1b5a44_1    conda-forge
+markdown                  3.1.1                    py37_0  
+ncurses                   6.2                  he6710b0_1  
+numpy                     1.19.1           py37h8960a57_0    conda-forge
+olefile                   0.46                       py_0    conda-forge
+openssl                   1.1.1g               h516909a_1    conda-forge
+pandas                    1.1.0            py37h3340039_0    conda-forge
+pcre                      8.44                 he6710b0_0  
+pillow                    7.2.0            py37h718be6c_1    conda-forge
+pip                       20.1.1                   py37_1  
+pixman                    0.40.0               h7b6447c_0  
+protobuf                  3.12.3           py37he6710b0_0  
+py-boost                  1.67.0           py37h04863e7_4  
+python                    3.7.7                hcff3b4d_5  
+python-dateutil           2.8.1                      py_0    conda-forge
+python_abi                3.7                     1_cp37m    conda-forge
+pytz                      2020.1             pyh9f0ad1d_0    conda-forge
+rdkit                     2020.03.3.0      py37hc20afe1_1    rdkit
+readline                  8.0                  h7b6447c_0  
+scikit-learn              0.21.3           py37hcdab131_0    conda-forge
+scipy                     1.5.2            py37hb14ef9d_0    conda-forge
+setuptools                49.2.0                   py37_0  
+six                       1.15.0             pyh9f0ad1d_0    conda-forge
+sqlite                    3.32.3               h62c20be_0  
+tensorboard               1.14.0           py37hf484d3e_0  
+tensorflow                1.14.0          mkl_py37h45c423b_0  
+tensorflow-base           1.14.0          mkl_py37h7ce6ba3_0  
+tensorflow-estimator      1.14.0                     py_0  
+termcolor                 1.1.0                    py37_1  
+tk                        8.6.10               hbc83047_0  
+werkzeug                  1.0.1                      py_0  
+wheel                     0.34.2                   py37_0  
+wrapt                     1.12.1           py37h7b6447c_1  
+xz                        5.2.5                h7b6447c_0  
+zlib                      1.2.11               h7b6447c_3  
+zstd                      1.4.5                h6597ccf_2    conda-forge
