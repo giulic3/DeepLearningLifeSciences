@@ -37,7 +37,7 @@ predicted_solubility = model.predict_on_batch(x)
 for m, s in zip(smiles, predicted_solubility):
     print()
     print('Molecule:', m)
-    print('Predicted solubility:', s)
+    print('Predicted solubility:', s) # log (mols / liters)
 
 
 """
@@ -63,3 +63,5 @@ Predicted solubility: [0.00258102]
 Molecule: Cc1cc2ccccc2cc1C
 Predicted solubility: [-0.29237247]
 """
+
+# See also https://github.com/deepchem/deepchem/blob/master/examples/tutorials/03_Modeling_Solubility.ipynbd
